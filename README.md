@@ -1,5 +1,6 @@
 # Food Ordering Web App Wireframe
- 
+> A wireframe for Food Ordering Web App designed by using Adobe XD
+
 ## Lading Page
 <img src="https://github.com/jacksonCV1114/DiningWireframe/blob/master/iPhone%2014%20Pro%20Max%20%E2%80%93%201%402x.png" width="300"/>
 
