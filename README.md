@@ -1,63 +1,19 @@
-# Tiny-Tour.js
-> A lightweight javascript library for step-by-step product tours and user onboarding guides
+# Food Ordering Web App Wireframe
+ 
+## Lading Page
+<img src="https://github.com/jacksonCV1114/DiningWireframe/blob/master/iPhone%2014%20Pro%20Max%20%E2%80%93%201%402x.png" width="300"/>
 
-[![Version](https://img.shields.io/npm/v/tiny-tour.svg)](https://www.npmjs.com/package/tiny-tour) 
+## Food List Page
+<img src="https://github.com/jacksonCV1114/DiningWireframe/blob/master/iPhone%2014%20Pro%20Max%20%E2%80%93%202%402x.png" width="300"/>
 
-## Features Demo
-<img src="https://github.com/jacksonCV1114/tiny-tour/blob/master/demo.gif" width="300"/>
+<img src="https://github.com/jacksonCV1114/DiningWireframe/blob/master/iPhone%2014%20Pro%20Max%20%E2%80%93%203%402x.png" width="300"/>
 
-## Demo Website
-[Click Here - Demo Website](https://htmlpreview.github.io/?https://github.com/jacksonCV1114/tiny-tour/blob/master/demo/index.html)
-## Features Highlights
-* Next Step
-* Previous Step
-* Support Image
-* Responsive Design
+<img src="https://github.com/jacksonCV1114/DiningWireframe/blob/master/iPhone%2014%20Pro%20Max%20%E2%80%93%203%402x.png" width="300"/>
 
-## Main Files and Descriptions
-```
-src/
-├── tiny-tour.css   (uncompressed)
-├── tiny-tour.css   (compressed)
-├── tiny-tour.js    (uncompressed)
-└── tiny-tour.js    (compressed)
-```
+<img src="https://github.com/jacksonCV1114/DiningWireframe/blob/master/iPhone%2014%20Pro%20Max%20%E2%80%93%205%402x.png" width="300"/>
 
-## Getting Started
+## Add to Cart Page
+<img src="https://github.com/jacksonCV1114/DiningWireframe/blob/master/iPhone%2014%20Pro%20Max%20%E2%80%93%204%402x.png" width="300"/>
 
-### Installation
-
-NPM
-```
-npm install tiny-tour.js
-```
-In browser:
-```
-<link  href="/path/to/tiny-tour.min.css" rel="stylesheet">
-<script src="/path/to/tiny-tour.min.js"></script>
-```
-### Example
-```
-<html>
-     <body>
-        <div id="target1" style="position:absolute;top:1000px;">
-            <p> I am the long long long long long long long long long target</p>
-        </div>  
-        <div id="target2" style="position:absolute;top:300px;">
-            <p> I am the target</p>
-        </div>  
-        <div id="target3" style="position:absolute;top:300px;left:400px">
-            <p> I am the target</p>
-        </div>  
-    </body>
-  
-    <script>
-        const stepList = [];
-        stepList.push(new Step('target1',`<img width='200px' height='200px' src="image.jpg">`,`Let me show you`))
-        stepList.push(new Step('target2','Title 2','Description2'))
-        stepList.push(new Step('target3','Title 3','Description3'))
-        const tinyTour = new TinyTour(stepList);
-    </script>
-</html>
-```
-
+## Order Page
+<img src="https://github.com/jacksonCV1114/DiningWireframe/blob/master/iPhone%2014%20Pro%20Max%20%E2%80%93%206%402x.png" width="300"/>
